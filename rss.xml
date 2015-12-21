@@ -2,19 +2,19 @@
     <channel>
         <title><![CDATA[Co-working and Co-living in Spanish village]]></title>
         <description><![CDATA[Co-working and Co-living in Spanish village]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/co-working-and-co-living-in-spanish-village/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 18:50:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 18:51:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/co-working-and-co-living-in-spanish-village/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[are you fed up ?]]></title>
             <description><![CDATA[<article><h1>are you fed up ?</h1><p>In
 Finca Los Motivos we create a place for location independent
 entrepreneurs to relax and enjoy nature and a good climate, while
 working on their business</p></article>]]></description>
-            <link>undefinedare-you-fed-up/index.html</link>
+            <link>https://thegrid.ai/co-working-and-co-living-in-spanish-village/are-you-fed-up/index.html</link>
             <guid isPermaLink="false">885d2399-1ddc-41df-89d5-d35f609ab96b</guid>
-            <pubDate>Mon, 21 Dec 2015 18:50:27 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 18:51:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
