@@ -1,0 +1,28 @@
+name: Co-working and Co-living in Spanish village
+favicon: null
+layout_spectrum: 0.7635822026059031
+typography_spectrum: 0.05235674767754972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8575507763307542
+  lightness: 0.9151052199304104
+  saturation: 0.8631820729933679
+  rhythmicContrast: 0.04165801405906677
+purpose: []
