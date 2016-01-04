@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T19:13:36.391Z'
-dateModified: '2016-01-04T19:13:26.499Z'
+datePublished: '2016-01-04T20:51:07.003Z'
+dateModified: '2016-01-04T20:50:45.868Z'
 title: is this your daily view ?
 author: []
 authors: []
