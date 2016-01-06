@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nature based location for independent entrepreneurs]]></title>
+        <description><![CDATA[Nature based location for independent entrepreneurs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 16:15:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finca Los Motivos]]></title>
+            <description><![CDATA[<article><h1>Finca Los Motivos</h1><p>In Finca Los Motivos we create a place for location independent entrepreneurs to relax and enjoy nature and a good climate, while working on their business</p></article>]]></description>
+            <link>undefinedfinca-los-motivos/index.html</link>
+            <guid isPermaLink="false">2712584c-81c0-4cce-b0b7-46107cef7950</guid>
+            <pubDate>Wed, 06 Jan 2016 16:15:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
