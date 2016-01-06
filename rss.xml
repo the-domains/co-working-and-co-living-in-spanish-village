@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nature based location for independent entrepreneurs]]></title>
         <description><![CDATA[Nature based location for independent entrepreneurs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/co-working-and-co-living-in-spanish-village/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 16:15:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 16:18:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/co-working-and-co-living-in-spanish-village/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d052cd1-8969-40b5-b7a3-22a920f43a23.jpg">]]></description>
+            <link>https://thegrid.ai/co-working-and-co-living-in-spanish-village/6f63a944-3897-4cf1-ae37-73d0361be11d/index.html</link>
+            <guid isPermaLink="false">6f63a944-3897-4cf1-ae37-73d0361be11d</guid>
+            <pubDate>Wed, 06 Jan 2016 16:18:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Finca Los Motivos]]></title>
             <description><![CDATA[<article><h1>Finca Los Motivos</h1><p>In Finca Los Motivos we create a place for location independent entrepreneurs to relax and enjoy nature and a good climate, while working on their business</p></article>]]></description>
-            <link>undefinedfinca-los-motivos/index.html</link>
+            <link>https://thegrid.ai/co-working-and-co-living-in-spanish-village/finca-los-motivos/index.html</link>
             <guid isPermaLink="false">2712584c-81c0-4cce-b0b7-46107cef7950</guid>
             <pubDate>Wed, 06 Jan 2016 16:15:16 GMT</pubDate>
         </item>
